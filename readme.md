@@ -52,7 +52,7 @@ A Python tool for automating the download of YouTube videos, splitting them into
 
 ## License
 
-Licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Licensed under the MIT License. 
 
 ## Acknowledgements
 
