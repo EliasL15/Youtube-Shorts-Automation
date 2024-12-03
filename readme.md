@@ -1,4 +1,4 @@
-# YouTube Shorts Generator
+# Shorts Generator
 
 A Python tool for splitting videos into clips, generating subtitles with Whisper, and combining them with game footage.
 
